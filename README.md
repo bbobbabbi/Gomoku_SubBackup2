@@ -1,1 +1,2 @@
-# Gomoku_SubBackup2
+# Gomoku
+ 흑백개발자 오목 팀프로젝트입니다.
